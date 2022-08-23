@@ -45,5 +45,7 @@ function aquecer(prato, tempo) {
   } else if (brigadeiro && tempo >= tempoBrigadeiro * 3) {
     console.log("Kabumm");
   } else console.log("Prato inexistente");
+
+  console.log("Prato concluído com sucesso, bom apetite!");
 }
-aquecer(brigadeiro, 24);
+aquecer(pipoca, 12);
