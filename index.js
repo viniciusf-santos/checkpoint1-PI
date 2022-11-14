@@ -48,4 +48,4 @@ function aquecer(prato, tempo) {
 
   console.log("Prato concluído com sucesso, bom apetite!");
 }
-aquecer(pipoca, 12);
+aquecer(pipoca, 10);
